@@ -20,12 +20,21 @@ public class BinarySearch {
 
             if (target < arr[mid]) {
                 end = mid - 1;
-            } else if (target > arr[mid]) {
+            } else if (target > arr[mid]) {     // This is for Assending order array searching
                 start = mid + 1;
             } else {
                 // ans found
                 return mid;
             }
+
+            // if (target < arr[mid]) {      //This is for Desending order array searching
+            //     end = mid - 1;
+            // } else if (target > arr[mid]) {
+            //     start = mid + 1;
+            // } else {
+            //     // ans found
+            //     return mid;
+            // }
         }
         return -1;
     }
