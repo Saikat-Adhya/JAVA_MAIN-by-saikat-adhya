@@ -11,7 +11,7 @@ public class SorttheFirstPartassendingorderandotherPartDesndingorder {
 
         for (int j = arr.length - 1; j >= arr.length / 2; j--)
       {
-         System.out.print(arr[j] + " ");
+         System.out.print(arr[j] + " ");        //This is for the second part dessending order
       }
 
     }
