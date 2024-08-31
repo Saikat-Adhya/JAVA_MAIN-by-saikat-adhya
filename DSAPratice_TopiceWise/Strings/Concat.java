@@ -3,6 +3,6 @@ public class Concat {
         String s ="Hello";
         String a = "Ok";
 
-        System.out.println(ff);
+        System.out.println(s+a);
     }
 }
