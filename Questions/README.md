@@ -13,4 +13,5 @@ Arrays:-
 12. Given an array 'a' consisting of intgers. Return the first value that is repating in the array. if no value is being repated, retunr-1.
 13. Calculate the Sum of the values at even indices in array.
 14. calculate the XOR of the values at odd indices in the array.
-15. Calculate the Sum of the values at even indices in array.calculate the XOR of the values at odd indices in the array.finally return the sum of the results from the above two operations 
+15. Calculate the Sum of the values at even indices in array.calculate the XOR of the values at odd indices in the array.finally return the sum of the results from the above two operations.
+16. Rotate the given array 'a' by k steps, where is non-negative. (Note::- k can be greater than n as well).
