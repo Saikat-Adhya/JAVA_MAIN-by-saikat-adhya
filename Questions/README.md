@@ -14,5 +14,9 @@ Arrays:-
 13. Calculate the Sum of the values at even indices in array.
 14. calculate the XOR of the values at odd indices in the array.
 15. Calculate the Sum of the values at even indices in array.calculate the XOR of the values at odd indices in the array.finally return the sum of the results from the above two operations.
-16. Rotate the given array 'a' by k steps, where is non-negative. (Note::- k can be greater than n as well).
+16. Rotate the given array 'a' by k steps, where is k non-negative. (Note::- k can be greater than n as well).
 17. Rotate the given array 'a' by k steps, where k is non-negative without extra space. (Note::- k can be greater than n as well).
+18. Given Q queries, check if the given number is present in the array or not. (Value of all the elements in the array is less than 10 to the power 5).
+19. Sort an array consisting 0's and 1's.
+20. Given an array of integers 'a', move all the given integers at the beginning of the array followed by all the odd integers.The relative order of odd or even integers doesn't matter.return any array that satisfies the condition.
+21. Given an integer array 'a' sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
