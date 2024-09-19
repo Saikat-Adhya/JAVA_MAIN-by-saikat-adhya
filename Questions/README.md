@@ -20,3 +20,6 @@ Arrays:-
 19. Sort an array consisting 0's and 1's.
 20. Given an array of integers 'a', move all the given integers at the beginning of the array followed by all the odd integers.The relative order of odd or even integers doesn't matter.return any array that satisfies the condition.
 21. Given an integer array 'a' sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
+22. Print the sum of cube in range.
+23. Print all the subarray of an array
+24. Check a number is odd or even(Using Bit-Manupulation).
