@@ -1,4 +1,3 @@
-Arrays:-
 1. Sum of element in Array.
 2. Maximum Element of an Array.
 3. Minimum Element of an Array.
@@ -23,3 +22,8 @@ Arrays:-
 22. Print the sum of cube in range.
 23. Print all the subarray of an array
 24. Check a number is odd or even(Using Bit-Manupulation).
+25. Find the unique element in a given Array whether all the elements are being repeted twice with one value being is unique.(Using XOR Bitwise Operator).
+26. Binary to Decimal(Number System).
+27. Decimal to Binary(Number System).
+28. COunt the total number of vowels, consunats and white spaces in a string.(*****).
+29. Remove all vowels from a string.
