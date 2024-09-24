@@ -27,3 +27,7 @@
 27. Decimal to Binary(Number System).
 28. COunt the total number of vowels, consunats and white spaces in a string.(*****).
 29. Remove all vowels from a string.
+30. Remove Spaces from a String.
+31. Remove ELenment from an array.
+32. Reverse an String.
+33. Capitalize first and last character of each word of a string.
