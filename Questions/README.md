@@ -7,7 +7,8 @@ Here You Get All Topic Wise Java Codes.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-<img src="logo.jpg" alt="Screenshot of the Project" width="400" />
+
+<img src="logo.jpg" alt="Screenshot of the Project" width="200" />
 
 1. Sum of element in Array.
 2. Maximum Element of an Array.
