@@ -31,3 +31,10 @@
 31. Remove ELenment from an array.
 32. Reverse an String.
 33. Capitalize first and last character of each word of a string.
+34. PrefixSum question.
+35. Given an array of integers of size n. Answer q queries where you need to print the sum of values in a given range of indices from 1 to r(both included).Note::- The values of 1 and r in queries follow 1-based indexing.
+36. Find Prime number or not.
+37. HCF Number.
+38. Plaindrome number.
+39. Addition of two matrix.(2D-Array).
+40. A chocolate factory is packing chocolates into the packets. The chocolate packets here represent an array  of N number of integer values. The task is to find the empty packets(1) of chocolate and push it to the end of the conveyor belt(array).
