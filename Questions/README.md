@@ -29,7 +29,7 @@
 29. Remove all vowels from a string.
 30. Remove Spaces from a String.
 31. Remove ELenment from an array.
-32. Reverse an String.
+32. [Reverse an String.](Question32.java)
 33. Capitalize first and last character of each word of a string.
 34. PrefixSum question.
 35. Given an array of integers of size n. Answer q queries where you need to print the sum of values in a given range of indices from 1 to r(both included).Note::- The values of 1 and r in queries follow 1-based indexing.
@@ -38,3 +38,6 @@
 38. Plaindrome number.
 39. Addition of two matrix.(2D-Array).
 40. A chocolate factory is packing chocolates into the packets. The chocolate packets here represent an array  of N number of integer values. The task is to find the empty packets(1) of chocolate and push it to the end of the conveyor belt(array).
+41. Alice and her friends are playing a game of verbal Kho-Kho. Alice is acting as a mediator, and the rest of the N friends are seated on N chairs, one each.
+Alice starts by providing a paper with a single-digit number to the friend present at number 1. Let’s denote friends by F, where F will be of size N. F[1]…F[N] represents friends seated respectively. After receiving the paper with a digit, F[1] will enact and try to tell F[2] without speaking. Similarly, F[2] will communicate to the next person i.e., F[3]. This continues until the last person F[N] understands the digit. Finally, the last person will write the digit on a separate paper and give it to Alice to compare both papers. If the digits are similar then, Alice will give a T-shirt to each friend. However, if the digits do not match, Alice will ask each friend’s digits, and she will offer the T-shirts to only those who understood the digits correctly.
+Note:=(Given N number of friends and digit array D, denoting the digit understood by each friend F. finds out how many of Alice’s friends have not enacted well OR did not understand the enactment by the previous friend correctly).
