@@ -1,3 +1,14 @@
+# JAVA-DSA Pratice
+
+Here You Get All Topic Wise Java Codes.
+## Authors
+
+- [@octokatherine](https://www.github.com/Saikat-Adhya)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+<img src="logo.jpg" alt="Screenshot of the Project" width="400" />
+
 1. Sum of element in Array.
 2. Maximum Element of an Array.
 3. Minimum Element of an Array.
@@ -41,3 +52,13 @@
 41. Alice and her friends are playing a game of verbal Kho-Kho. Alice is acting as a mediator, and the rest of the N friends are seated on N chairs, one each.
 Alice starts by providing a paper with a single-digit number to the friend present at number 1. Let’s denote friends by F, where F will be of size N. F[1]…F[N] represents friends seated respectively. After receiving the paper with a digit, F[1] will enact and try to tell F[2] without speaking. Similarly, F[2] will communicate to the next person i.e., F[3]. This continues until the last person F[N] understands the digit. Finally, the last person will write the digit on a separate paper and give it to Alice to compare both papers. If the digits are similar then, Alice will give a T-shirt to each friend. However, if the digits do not match, Alice will ask each friend’s digits, and she will offer the T-shirts to only those who understood the digits correctly.
 Note:=(Given N number of friends and digit array D, denoting the digit understood by each friend F. finds out how many of Alice’s friends have not enacted well OR did not understand the enactment by the previous friend correctly).
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+## Support
+
+For support, Message me on Linkedin (Provided in profile page).
