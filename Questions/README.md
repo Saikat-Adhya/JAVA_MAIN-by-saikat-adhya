@@ -3,7 +3,7 @@
 Here You Get All Topic Wise Java Codes.
 ## Authors
 
-- [@octokatherine](https://www.github.com/Saikat-Adhya)
+- [@Saikat-Adhya](https://www.github.com/Saikat-Adhya)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
