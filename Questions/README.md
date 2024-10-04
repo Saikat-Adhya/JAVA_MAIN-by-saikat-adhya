@@ -53,6 +53,10 @@ Here You Get All Topic Wise Java Codes.
 41. Alice and her friends are playing a game of verbal Kho-Kho. Alice is acting as a mediator, and the rest of the N friends are seated on N chairs, one each.
 Alice starts by providing a paper with a single-digit number to the friend present at number 1. Let’s denote friends by F, where F will be of size N. F[1]…F[N] represents friends seated respectively. After receiving the paper with a digit, F[1] will enact and try to tell F[2] without speaking. Similarly, F[2] will communicate to the next person i.e., F[3]. This continues until the last person F[N] understands the digit. Finally, the last person will write the digit on a separate paper and give it to Alice to compare both papers. If the digits are similar then, Alice will give a T-shirt to each friend. However, if the digits do not match, Alice will ask each friend’s digits, and she will offer the T-shirts to only those who understood the digits correctly.
 Note:=(Given N number of friends and digit array D, denoting the digit understood by each friend F. finds out how many of Alice’s friends have not enacted well OR did not understand the enactment by the previous friend correctly).
+42. Check whether a number is armstrong or not.
+43. [Multiplication of two matrix(2D-Array).](Question43.java)
+44. [You have to design a weekly exercise summary by taking the number of minutes of daily exercise for 7 consecutive days. The exercise duration for all the days will be in minutes which will be entered by the user. You have calculate the total exercise duration of the week and then calculate the average daily workout duration.](Question44.java)
+45. [ou have to take a range of (M,N) where both M and N are integers. M is the lower limit and N is the upper limit. Find out all possible palindrome numbers within the above range and return the number of palindrome numbers.](Question45.java)
 ## Contributing
 
 Contributions are always welcome!
