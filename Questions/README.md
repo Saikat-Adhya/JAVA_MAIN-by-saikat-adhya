@@ -8,7 +8,7 @@ Here You Get All Topic Wise Java Codes.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-<img src="logo.jpg" alt="Screenshot of the Project" width="200" />
+<img src="java.png" alt="Screenshot of the Project" width="200" />
 
 1. Sum of element in Array.
 2. Maximum Element of an Array.
@@ -56,7 +56,8 @@ Note:=(Given N number of friends and digit array D, denoting the digit understoo
 42. Check whether a number is armstrong or not.
 43. [Multiplication of two matrix(2D-Array).](Question43.java)
 44. [You have to design a weekly exercise summary by taking the number of minutes of daily exercise for 7 consecutive days. The exercise duration for all the days will be in minutes which will be entered by the user. You have calculate the total exercise duration of the week and then calculate the average daily workout duration.](Question44.java)
-45. [ou have to take a range of (M,N) where both M and N are integers. M is the lower limit and N is the upper limit. Find out all possible palindrome numbers within the above range and return the number of palindrome numbers.](Question45.java)
+45. [you have to take a range of (M,N) where both M and N are integers. M is the lower limit and N is the upper limit. Find out all possible palindrome numbers within the above range and return the number of palindrome numbers.](Question45.java)
+46. [How much train will take to cover 400m distance with bridge length as 400m.Take speed of train(SOT) as input and predict the time in seconds.](Question46.java)
 ## Contributing
 
 Contributions are always welcome!
