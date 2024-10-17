@@ -58,6 +58,8 @@ Note:=(Given N number of friends and digit array D, denoting the digit understoo
 44. [You have to design a weekly exercise summary by taking the number of minutes of daily exercise for 7 consecutive days. The exercise duration for all the days will be in minutes which will be entered by the user. You have calculate the total exercise duration of the week and then calculate the average daily workout duration.](Question44.java)
 45. [you have to take a range of (M,N) where both M and N are integers. M is the lower limit and N is the upper limit. Find out all possible palindrome numbers within the above range and return the number of palindrome numbers.](Question45.java)
 46. [How much train will take to cover 400m distance with bridge length as 400m.Take speed of train(SOT) as input and predict the time in seconds.](Question46.java)
+47. [The people given donation to a fund if the donation is perfect number then return true else false.](Question47.java)
+48. [Sum of Digit of n numbers in java](Question48.java)
 ## Contributing
 
 Contributions are always welcome!
