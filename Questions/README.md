@@ -60,6 +60,9 @@ Note:=(Given N number of friends and digit array D, denoting the digit understoo
 46. [How much train will take to cover 400m distance with bridge length as 400m.Take speed of train(SOT) as input and predict the time in seconds.](Question46.java)
 47. [The people given donation to a fund if the donation is perfect number then return true else false.](Question47.java)
 48. [Sum of Digit of n numbers in java](Question48.java)
+49. [Count Subarray sum Equals K](Question49.java)
+50. [Print all the subarray in given array](Question50.java)
+51. [Fibonnaci Series in a given range](Question51.java)
 ## Contributing
 
 Contributions are always welcome!
