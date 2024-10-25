@@ -1,5 +1,5 @@
 # GFG
---------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 # Arrays:
 ## Questions :-
 1. [Non-Repeating Element in an Array.](/TCS_CodingPrep/GFG/Question1.java)
@@ -7,3 +7,13 @@
 3. [Equilibrium index of an array.](/TCS_CodingPrep/GFG/Question3.java)
 4. [Print array after it is right rotated K times](/TCS_CodingPrep/GFG/Question4.java)
 5. [Find whether an array is subset of another array](/TCS_CodingPrep/GFG/Question5.java)
+6. [Find the Minimum and Maximum Element in an Array](/TCS_CodingPrep/GFG/Question6.java)
+7. [Remove duplicate From Sorted array](/TCS_CodingPrep/GFG/Question7.java)
+8. [Sort an array](/TCS_CodingPrep/GFG/Question8.java)
+-----------------------------------------------------------------------------------------------------------
+# Strings:
+## Questions :-
+1.1 [Check a String whether is palindrome or not](/TCS_CodingPrep/GFG/Question1String.java)
+1.2 [Java program to remove characters in a string except alphabets](/TCS_CodingPrep/GFG/Question2String.java)
+1.3 [Java program to Capitalize the First and Last letter of Each Word of a String](/TCS_CodingPrep/GFG/Question3String.java)
+1.4 [You are given a string s and your task is to find and return the count of permutation formed by fixing the positions of the vowels  present in a string](/TCS_CodingPrep/GFG/Question4String.java)
