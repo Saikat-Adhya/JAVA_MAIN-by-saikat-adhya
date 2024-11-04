@@ -65,6 +65,8 @@ Note:=(Given N number of friends and digit array D, denoting the digit understoo
 51. [Fibonnaci Series in a given range](Question51.java)
 52. [An automobile company manufactures both a two wheeler (TW) and a four wheeler (FW). A company manager wants to make the production of both types of vehicle according to the given data: 1st data, Total number of vehicle (two-wheeler + four-wheeler)=v..2nd data, Total number of wheels = W](Question52.java)
 53. [In a coin game in a mall when every Head(H) comes the tosser get 2 points  and when every Tail(T) comes the tosser loss 1 point . so give the final score and if in H&T situation is 'H' comes three time break the code](Question53.java)
+54. [Given an integer array Arr of size N the task is to find the count of elements whose value is greater than all of its prior elements. (Note : 1st element of the array should be considered in the count of the result.)](Question54.java)
+55. [Buy and sell Stocks(which is the best day to buy a stock and what is the max profit)](Question55.java)
 ## Contributing
 
 Contributions are always welcome!

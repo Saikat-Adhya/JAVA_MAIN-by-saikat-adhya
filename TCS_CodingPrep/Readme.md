@@ -2,14 +2,18 @@
 -----------------------------------------------------------------------------------------------------
 # Arrays:
 ## Questions :-
-1. [Non-Repeating Element in an Array.](/TCS_CodingPrep/GFG/Question1.java)
-2. [Rotate an array.](/TCS_CodingPrep/GFG/Question2.java)
-3. [Equilibrium index of an array.](/TCS_CodingPrep/GFG/Question3.java)
-4. [Print array after it is right rotated K times](/TCS_CodingPrep/GFG/Question4.java)
-5. [Find whether an array is subset of another array](/TCS_CodingPrep/GFG/Question5.java)
-6. [Find the Minimum and Maximum Element in an Array](/TCS_CodingPrep/GFG/Question6.java)
-7. [Remove duplicate From Sorted array](/TCS_CodingPrep/GFG/Question7.java)
-8. [Sort an array](/TCS_CodingPrep/GFG/Question8.java)
+1.  [Non-Repeating Element in an Array.](/TCS_CodingPrep/GFG/Question1.java)
+2.  [Rotate an array.](/TCS_CodingPrep/GFG/Question2.java)
+3.  [Equilibrium index of an array.](/TCS_CodingPrep/GFG/Question3.java)
+4.  [Print array after it is right rotated K times](/TCS_CodingPrep/GFG/Question4.java)
+5.  [Find whether an array is subset of another array](/TCS_CodingPrep/GFG/Question5.java)
+6.  [Find the Minimum and Maximum Element in an Array](/TCS_CodingPrep/GFG/Question6.java)
+7.  [Remove duplicate From Sorted array](/TCS_CodingPrep/GFG/Question7.java)
+8.  [Sort an array](/TCS_CodingPrep/GFG/Question8.java)
+9.  [Two Sum : Check if a pair with given sum exists in Array](/TCS_CodingPrep/GFG/Question9.java)
+10. [Merge two Sorted Array](/TCS_CodingPrep/GFG/Question10.java)
+11. [Leaders in array](/TCS_CodingPrep/GFG/Question11.java)
+12. [Maximum Differnece in an array](/TCS_CodingPrep/GFG/Question12.java)
 -----------------------------------------------------------------------------------------------------------
 # Strings:
 ## Questions :-
