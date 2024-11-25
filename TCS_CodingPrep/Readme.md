@@ -13,7 +13,8 @@
 9.  [Two Sum : Check if a pair with given sum exists in Array](/TCS_CodingPrep/GFG/Question9.java)
 10. [Merge two Sorted Array](/TCS_CodingPrep/GFG/Question10.java)
 11. [Leaders in array](/TCS_CodingPrep/GFG/Question11.java)
-12. [Maximum Differnece in an array](/TCS_CodingPrep/GFG/Question12.java)
+12. [Maximum Differnece and Minimum Differnce in an array](/TCS_CodingPrep/GFG/Question12.java)
+13. [Remove even element from an array and print the new array](/TCS_CodingPrep/GFG/Question13.java)
 -----------------------------------------------------------------------------------------------------------
 # Strings:
 ## Questions :-
@@ -21,3 +22,6 @@
 1.2 [Java program to remove characters in a string except alphabets](/TCS_CodingPrep/GFG/Question2String.java)
 1.3 [Java program to Capitalize the First and Last letter of Each Word of a String](/TCS_CodingPrep/GFG/Question3String.java)
 1.4 [You are given a string s and your task is to find and return the count of permutation formed by fixing the positions of the vowels  present in a string](/TCS_CodingPrep/GFG/Question4String.java)
+1.5 [Check a substring is subsequence of a string or not say return True or False](/TCS_CodingPrep/GFG/Question5String.java)
+1.6 [Check a two String is anagram or not](/TCS_CodingPrep/GFG/Question6String.java)
+1.7[Remove vowels from a string](/TCS_CodingPrep/GFG/Question7String.java)

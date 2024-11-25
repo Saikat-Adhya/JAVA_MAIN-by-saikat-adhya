@@ -12,6 +12,19 @@ public class Sort_an_Array {
             }
             System.out.print(arr[i]+" ");
         }
+        System.out.println();
+        for (int i1 = 0; i1 < arr.length; i1++) {
+            for (int j1 = i1+1; j1 < arr.length; j1++) {
+                int tmp =0;
+                if (arr[i1]<arr[j1]) {
+                    tmp=arr[i1];
+                    arr[i1]=arr[j1];
+                    arr[j1]=tmp;
+                }
+            }
+            System.out.print(arr[i1]+" ");
+        }
+        
     }
     
 }

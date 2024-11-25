@@ -4,15 +4,6 @@ public class Question19 {
         temp=arr[s];
         arr[s]=arr[e];
         arr[e]=temp;
-        // while (s<e) {
-        //     int temp;
-        //     temp=arr[s];
-        //     arr[s]=arr[e];
-        //     arr[e]=temp;
-        //     s++;
-        //     e--;
-        // }
-    }
     static void Sort(int[]arr){
         int s=0;
         int e =arr.length-1;

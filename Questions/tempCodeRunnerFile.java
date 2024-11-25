@@ -1,4 +1,3 @@
-if (consecutiveH == 3) {
-            //     System.out.println("There three consecutive H present so breaking this");
-            //     break;
-            // }
+if (arr[i]!=arr[i+1]) {
+                arr[j++]=arr[i];
+            }

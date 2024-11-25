@@ -13,7 +13,7 @@ public class Remove_duplicate_from_Sorted_Array {
         }
         arr[j++]=arr[arr.length-1];
         for (int l = 0; l <j; l++) {
-            System.out.println(arr[l]);
+            System.out.print(arr[l]+" ");
         }
     }
 }

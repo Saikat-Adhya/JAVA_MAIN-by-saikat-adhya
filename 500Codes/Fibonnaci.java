@@ -12,6 +12,6 @@ public class Fibonnaci {
             sum+=nextterm;
         }
         System.out.println();
-        System.out.println(sum);
+        System.out.println("The total sum of the fibo is: "+ sum);
     }
 }

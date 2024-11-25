@@ -12,7 +12,7 @@ public class Question36 {
             return;
         }
     
-        for (int i = 2; i <= num / 2; ++i) {
+        for (int i = 2; i <= num / 2; i++) {
     
           // condition for nonprime number
           if (num % i == 0) {
