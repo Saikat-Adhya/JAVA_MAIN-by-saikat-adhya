@@ -1,20 +1,16 @@
+import java.util.Arrays;
+
 public class Second_Largest_element_in_an_Array {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 4, 6, 7};
-        
+        int[] arr = {1,2,1,1,2,3,3,3,3,4,4,4,5,5,5,6,6};
+        Arrays.sort(arr);
         // Sort the array in ascending order
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = i + 1; j < arr.length; j++) {
-                if (arr[i] > arr[j]) {
-                    int tmp = arr[i];
-                    arr[i] = arr[j];
-                    arr[j] = tmp;
-                }
+        for(int i=arr.length-2;i>=0;i--){
+            if (arr[i]!=arr[arr.length-1]){
+                System.out.println("The second largest element is: " + arr[i]);
+                break;
+                
             }
         }
-        
-        // After sorting, the second largest element is the second last element in the array
-        int secondLargest = arr[arr.length - 2];
-        System.out.println("The second largest element is: " + secondLargest);
     }
 }
