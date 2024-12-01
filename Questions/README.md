@@ -68,6 +68,10 @@ Here You Get All Topic Wise Java Codes.
 56. [Find the ASCII value of a character](Question56.java)
 57. [Make a combination of two string in and make a mixed password with these two string like serial wise write them in a order Ex:- suppose two strings are "saikat", "adhya"then the output should be:- "saidkhayta"](Question57.java)
 58. [Sort Elements of an Array by Frequency](Question58.java)
+59. [A googly prime number is defined as a number that is derived from the sum of its indvidual digits. For example if N=43, the sum of its individual is (4+3)=7, which is prime making it a googly prime number. Your task is to find that is googly prime number or not](Question59.java)
+60. [You are given four integers a,b,c,d.Find the sum of negative numbers and Print the sum of these negative number. print 0 if no negative number not present in these numbers](Question60.java)
+61. [You are given an array arr length 'n'.Find and print the element at the mid index of arr ignoring all the indices at which negative numbers are present in the array. and if there is two mid index find only the smaller mid.](Question61.java)
+62. [N light bulbs are connected by a wire,Each bulb has a switch associated with it,however due to faulty wiring a switch also changes the state of all bulbs to the right of current bulb. Given an initial state of all bulbs, Find the minimum number of switches you have to turn on all the bulbs.You can press the same switch multiple times. Note: 0 represents the bulb off and 1 represents the bulb is on](Question62.java)
 ## Contributing
 
 Contributions are always welcome!
