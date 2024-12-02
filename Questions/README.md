@@ -75,6 +75,11 @@ Here You Get All Topic Wise Java Codes.
 63. [you are given two integers A roepresents A and B, a coordinate on x-axis (on) and. B roepresent y-axis (B10). a Coordinate On the These are two co-ordinape Points of Points of a roight-angled triangle, the third Point will be given input Find being the origin (0.0). You N Such triangles in the and Print the lengon of au the triangles Out of the hypotenuse.Note:• The formula of the length of a hypotenuse = rooot (a? +63) where a and represent the length of the oder Other two sides of the triangle.• If the length of the decimal, round integer. it hypoteriuse is in to the next greater.IP:-N=2A=2 A=12 B=3 B=5 OIP 4 13](Question63.java)
 64. [You are given a array of integers.Your task is Perfrom: 1.Calculate sum of even indices of the array. 2.xor value of the odd indieces and Finally return sum of the two operations](Question64.java)
 65. [Given but the a string in input which is nothing Words separated oro f underscore() or And we word have by fullstop() Space (4 to return togest + size to ngest of ex:hello my. name. is. Santuih O/P: 6](Question65.java)
+66. [Longest subarray with K sum](Question66.java)
+67. [Given array of size N, we have to return the pair whose sum is equals to target and having maximum product. Note:first value of pair must be greater than the second one](Question67.java)
+68. [Input String s. Delete the all vowels occurence in the string which only between the consonants and return the modified String](Question68.java)
+69. [Convert N into it's binary and calculate set of bits.Ex:N=15 then [1,1,1,1] o/p:4](Question69.java)
+70. [Equilibrium index of an array.](Question70.java)
 ## Contributing
 
 Contributions are always welcome!
