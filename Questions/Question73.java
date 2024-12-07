@@ -8,9 +8,8 @@ public class Question73 {
             } else {
                 cnt = 0;
             }
-
-            maxi = Math.max(maxi, cnt);
         }
+        maxi = Math.max(maxi, cnt);
         return maxi;
     }
     public static void main(String args[]) {
