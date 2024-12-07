@@ -80,6 +80,12 @@ Here You Get All Topic Wise Java Codes.
 68. [Input String s. Delete the all vowels occurence in the string which only between the consonants and return the modified String](Question68.java)
 69. [Convert N into it's binary and calculate set of bits.Ex:N=15 then [1,1,1,1] o/p:4](Question69.java)
 70. [Equilibrium index of an array.](Question70.java)
+71. [Prefixsum prob](Question71.java)
+72. [ArrayFrequency](Question72.java)
+73. [Maximum consequtive one](Question73.java)
+74. [Find the missing number in an array](Question74.java)
+75. [Two sum Problem in java](Question75.java)
+
 ## Contributing
 
 Contributions are always welcome!
