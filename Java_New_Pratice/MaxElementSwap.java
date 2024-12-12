@@ -21,9 +21,9 @@ public class MaxElementSwap {
         int maxIndex = 0; // Initialize the index of the maximum element to the first index
         
         // Find the index of the maximum element
-        for (int i = 1; i < arr.length; i++) {
+        for (int i = 0; i < arr.length; i++) {
             if (arr[i] > arr[maxIndex]) {
-                maxIndex = i; // Update maxIndex if a larger element is found
+                maxIndex = arr[i]; // Update maxIndex if a larger element is found
             }
         }
         
