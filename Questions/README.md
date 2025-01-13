@@ -85,6 +85,7 @@ Here You Get All Topic Wise Java Codes.
 73. [Maximum consequtive one](Question73.java)
 74. [Find the missing number in an array](Question74.java)
 75. [Two sum Problem in java](Question75.java)
+76. [Print the frequency of each character from a string](Question76.java)
 
 ## Contributing
 
