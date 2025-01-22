@@ -8,7 +8,7 @@ public class Question40 {
                 index++;
             }
         }
-        //System.out.println(index);
+       
         System.out.println();
         for (int i = index; i < arr.length; i++) {
             arr[i] = 1;
