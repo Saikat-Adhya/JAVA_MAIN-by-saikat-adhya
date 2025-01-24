@@ -25,3 +25,5 @@
 1.5 [Check a substring is subsequence of a string or not say return True or False](/TCS_CodingPrep/GFG/Question5String.java)
 1.6 [Check a two String is anagram or not](/TCS_CodingPrep/GFG/Question6String.java)
 1.7[Remove vowels from a string](/TCS_CodingPrep/GFG/Question7String.java)
+1.8[Reverse words of a string](/TCS_CodingPrep/GFG/Question8String.java)
+1.9[Filter Character from a string](/TCS_CodingPrep/GFG/Question9String.java)

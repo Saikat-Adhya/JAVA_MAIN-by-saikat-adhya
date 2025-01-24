@@ -90,6 +90,9 @@ Here You Get All Topic Wise Java Codes.
 78. [A chocolate factory is packing chocolates into the packets. The chocolate packets here represent an array  of N number of integer values. The task is to find the empty packets(1) of chocolate and push it to the end of the conveyor belt(array). using Two Pointer approach](Question78.java)
 79. [After JEE Mains, some students got admission into an engineering college. Now there is a class consisting of such n students, and the HOD came to say it is time to select the class monitor. But He never gets all of them at one time. So he brought a register, every time he gets someone with less rank than the previous time he cut the name and wrote the name of the student and the rank. For a given number of ranks he gets each time, you have to predict how many names are cut in the list. Sample Input: 6 ,4 3 7 2 6 1. Output:3](Question79.java)
 80. [Joseph is learning digital logic subject which will be for his next semester. He usually tries to solve unit assignment problems before the lecture. Today he got one tricky question. The problem statement is "A positive integer has been given as an input. Convert decimal value to binary representation. Toggle all bits of it after the most significant bit including the most significant bit. Print the positive integer value after toggling all bits".](Question80.java)
+81. [Reverse words of a string](Question81.java)
+82. [Filter Character from a string](Question82.java)
+83. [Filter character from a string.Write a program that takes two strings as input: a target string and a refernce string.Remove all characters from the target string that are present in the refernce string and print the resluting string](Question83.java)
 
 ## Contributing
 
