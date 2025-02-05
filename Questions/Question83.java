@@ -15,5 +15,6 @@ public class Question83 {
             }
         }
         System.out.println("Result Remove String: "+result);
+        sc.close();
     }
 }
